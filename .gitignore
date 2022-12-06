@@ -1,3 +1,4 @@
 .ipynb_checkpoints/README-checkpoint.md
 .ipynb_checkpoints/tests-checkpoint.ipynb
 .ipynb_checkpoints/.gitignore-checkpoint
+__pycache__/deviance.cpython-37.pyc
