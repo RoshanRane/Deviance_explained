@@ -7,8 +7,9 @@ This implementation is based on McFadden’s equation[2].
 Simply use the `explained_deviance(y_true, y_pred_probas)` function in `deviance.py`. All dependant packages are in the imported in the python file. 
 The function should same as [any other sklearn metric](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.explained_variance_score.html#sklearn.metrics.explained_variance_score).
  
+#### References:
 
-### References:
 [1] _Eduardo García-Portugués_ Lab notes for Statistics for Social Sciences II: Multivariate Techniques: https://bookdown.org/egarpor/SSS2-UC3M/logreg-deviance.html 
+
 [2] _McFadden, D. (1974)_ “Conditional logit analysis of qualitative choice behavior.” Pp. 105-142 in P. Zarembka (ed.),
 Frontiers in Econometrics. Academic Press.
