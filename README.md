@@ -4,8 +4,8 @@ Deviance Explained metric implemented in python. Deviance Explained is a useful 
 This implementation is based on McFadden’s equation[2].
 
 ### How to use
-Simply use the `explained_deviance(y_true, y_pred_probas)` function in `deviance.py`. All dependant packages are in the imported in the python file. 
-The function should same as [any other sklearn metric](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.explained_variance_score.html#sklearn.metrics.explained_variance_score).
+Simply use the `explained_deviance(y_true, y_pred_probas)` function in `deviance.py`. All dependant packages are imported in the python file. 
+The function should work same as [any other sklearn metric](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.explained_variance_score.html#sklearn.metrics.explained_variance_score).
  
 #### References:
 
